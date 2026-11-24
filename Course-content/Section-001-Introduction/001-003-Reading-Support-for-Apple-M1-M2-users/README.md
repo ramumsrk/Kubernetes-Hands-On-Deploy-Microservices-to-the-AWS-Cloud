@@ -1,0 +1,1 @@
+# 3. Support for Apple M1 ,M2 users
