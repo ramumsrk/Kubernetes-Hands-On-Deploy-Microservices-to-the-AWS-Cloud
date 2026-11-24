@@ -1,0 +1,11 @@
+# [Kubernetes Hands-On - Deploy Microservices to the AWS Cloud](https://www.udemy.com/course/kubernetes-microservices/learn)
+1. Kubernetes , microservice-architecture , deploy , manage , monitor , kubernetes-cluster
+## [What you'll learn](./What-you-ll-learn/)
+## [Explore related topics](./Explore-related-topics/)
+## [This course includes:](./This-course-includes/)
+## [Course content](./Course-content/)
+## [Requirements](./Requirements/)
+## [Description](./Description/)
+## [Who this course is for:](./Who-this-course-is-for/)
+## [Students also bought](./Students-also-bought/)
+## [Instructors](./Instructors/)

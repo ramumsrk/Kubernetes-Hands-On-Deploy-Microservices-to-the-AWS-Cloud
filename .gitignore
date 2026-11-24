@@ -1,0 +1,4 @@
+# ignore files with extension `.pdf' and `.zip' in `/Resources/'
+# directory anywhere in the worktree
+**/Resources/*.zip
+**/Resources/*.pdf
